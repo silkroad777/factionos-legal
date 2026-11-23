@@ -116,7 +116,7 @@ Questions, concerns, or reports of misuse should be directed to the official Fac
 
 **Operator:** zerlox777  
 **Support:** zerlox777  
-**Privacy Policy:** [[Privacy Policy URL](https://github.com/silkroad777/factionos-legal/blob/main/privacy-policy.md)]
+**Privacy Policy:** [(https://silkroad777.github.io/factionos-legal/privacy-policy.html)]
 
 ---
 
