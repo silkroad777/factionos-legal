@@ -1,0 +1,50 @@
+
+# FactionOS Legal Repository
+# Public legal documents
+
+# Keep legal documents
+!privacy-policy.md
+!terms-of-service.md
+!README.md
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.json
+credentials.json
+config.local.json
+
+# Python files and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
