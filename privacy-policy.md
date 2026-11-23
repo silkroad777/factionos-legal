@@ -137,7 +137,7 @@ Service: FactionOS
 Data Controller: zerlox777
 Contact Discord: zerlox777
 Support: zerlox777
-Terms of Service: [[Terms of Service URL](https://github.com/silkroad777/factionos-legal/blob/main/terms-of-service.md)]
+Terms of Service: [https://silkroad777.github.io/factionos-legal/terms-of-service.html]
 
 For privacy inquiries, data access requests, or deletion requests, contact the operator using the details above.
 FactionOS is an independent community-developed Discord bot and is not officially affiliated with, endorsed by, or operated by TORN or Discord.
